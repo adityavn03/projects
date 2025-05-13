@@ -7,3 +7,4 @@ Add middlewares for user and admin auth
 Add a database (mongodb), use dotenv to store the database connection string
 Define the schema for User, Admin, Course, Purchase
 Complete the routes for user login, signup, purchase a course, see course
+this project only consist of the backend frontend need to be implemented.
